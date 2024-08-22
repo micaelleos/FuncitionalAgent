@@ -1,0 +1,8 @@
+streamlit==1.35.0
+langchain
+openai
+langchain-community
+pydantic==1.10.8
+langchain_openai
+dotenv
+atlassian-python-api
